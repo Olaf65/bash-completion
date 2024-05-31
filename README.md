@@ -34,6 +34,7 @@ Steps to Reproduce:
 
     Use the find command with the -exec parameter like 'find / -exec'.
     Attempt to use tab completion after /.
+    'bash: COMP_POINT: Teilstring-Ausdruck < 0.' appears.
 
 Solution:
 
